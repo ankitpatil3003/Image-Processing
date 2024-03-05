@@ -9,8 +9,8 @@ The idea was to develop a python-based program where images get captioned with t
 This Project was published in HBRP Publication
 
 • *Advancement in Image Processing and Pattern Recognition*
--- Volume 5 Issue 2
--- DOI: https://doi.org/10.5281/zenodo.6759892
+<br> Volume 5 Issue 2
+<br> DOI: https://doi.org/10.5281/zenodo.6759892
 
 ## Team Members:
 1)  Ankit Patil
