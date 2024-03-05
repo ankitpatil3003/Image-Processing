@@ -8,7 +8,7 @@ The idea was to develop a python-based program where images get captioned with t
 ## Publication:
 This Project was published in HBRP Publication
 
-• *Advancement in Image Processing and Pattern Recognition*
+<br> *Advancement in Image Processing and Pattern Recognition*
 <br> Volume 5 Issue 2
 <br> DOI: https://doi.org/10.5281/zenodo.6759892
 
